@@ -64,6 +64,3 @@ This repository contains the work completed for **SEG2505-Tutorial6**, where we 
 
 Please feel free to reach out if you have any questions or need further clarification on any of the tutorials.
 
----
-
-**Note**: The repository is configured to be accessible to teaching assistants for review. Make sure to follow the submission guidelines outlined in the course materials.
